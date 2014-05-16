@@ -7,7 +7,7 @@
 # Description: Parse qgis customization .ini file and generate nsis .nsh file for windows registry setup
 # Created:     14.04.2014
 # Copyright:   (c) darko.boto 2014
-# Licence:     <your licence>
+# Licence:     MIT
 #-------------------------------------------------------------------------------
 import os
 
